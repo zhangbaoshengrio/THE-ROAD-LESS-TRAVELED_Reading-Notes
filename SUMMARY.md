@@ -1,17 +1,5 @@
-# THE ROAD LESS TRAVELED_Reading Notes
-
- > This is my Reading Notes from my Evernote.
-
-# 《少有人走的路》读书笔记
-
-> 来自于我的印象笔记
-
-**作者 张宝胜**
-
-![THE ROAD LESS TRAVELED](https://images-na.ssl-images-amazon.com/images/I/41T3VdbTDgL._SX335_BO1,204,203,200_.jpg)
-
-
 ## 目录
+
 
 * [Part.A.自律](README.md)
   - [问题和痛苦](Part.A.1.md)
